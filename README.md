@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">React Native Phosphor Icons</h1>
-  <h3 align="center">Phosphor Icons generated from [React Native Vector Image](https://github.com/oblador/react-native-vector-image)</h3>
+  Phosphor Icons generated from [React Native Vector Image](https://github.com/oblador/react-native-vector-image)</h3>
 </p>
 
 ## Installation
