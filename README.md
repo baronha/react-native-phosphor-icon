@@ -1,22 +1,30 @@
-# react-native-phosphor-icon
-
-using react-native-vector-image
+<p align="center">
+  <h1 align="center">React Native Phosphor Icons</h1>
+  <h3 align="center">Phosphor Icons generated from [React Native Vector Image](https://github.com/oblador/react-native-vector-image)</h3>
+</p>
 
 ## Installation
 
 ```sh
-npm install react-native-phosphor-icon
+yarn add  @baronha/react-native-phosphor-icon
 ```
 
 ## Usage
 
+### Step 1:
+
 ```js
-import { multiply } from "react-native-phosphor-icon";
+import Icon from '@baronha/react-native-phosphor-icon';
 
-// ...
-
-const result = await multiply(3, 7);
+const App = () => <Icon name={IconName} />;
 ```
+
+### Step 2:
+
+`
+Follow the [React Native Vector Image's Documentation](https://github.com/oblador/react-native-vector-image)
+
+`
 
 ## Contributing
 
