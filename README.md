@@ -22,11 +22,7 @@ const App = () => <Icon name={IconName} />;
 
 ### Step 2:
 
-```
-
 Follow the [React Native Vector Image's Documentation](https://github.com/oblador/react-native-vector-image)
-
-```
 
 ## Contributing
 
