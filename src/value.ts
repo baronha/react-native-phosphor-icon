@@ -1,4 +1,4 @@
-export type IconVariant = 'fill' | 'outline';
+export type IconVariant = 'fill' | 'regular' | 'duotone';
 
 export type IconName =
   | 'activity'
