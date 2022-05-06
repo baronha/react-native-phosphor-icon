@@ -1,6 +1,6 @@
 {
   "name": "@baronha/react-native-phosphor-icon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "using react-native-vector-image",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
