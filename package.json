@@ -1,5 +1,5 @@
 {
-  "name": "react-native-phosphor-icon",
+  "name": "@baronha/react-native-phosphor-icon",
   "version": "0.1.0",
   "description": "using react-native-vector-image",
   "main": "lib/commonjs/index",
