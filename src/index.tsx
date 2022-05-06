@@ -2,7 +2,6 @@ import React, { PureComponent, ReactNode } from 'react';
 import type { ViewProps } from 'react-native';
 import IconFiles from './Icon';
 import VectorImage from 'react-native-vector-image';
-// import type { IconName, IconVariant } from './value';
 import type { IconName as Name, IconVariant } from './value';
 
 export declare const IconName: React.ValidationMap<Name>;
@@ -14,8 +13,6 @@ export interface IconProps extends ViewProps {
   color?: String;
   variant?: IconVariant;
 }
-
-// declare const Icon: React.FunctionComponent<IconProps>;
 
 class Icon extends PureComponent<IconProps> {
   static displayName = 'Icon';

@@ -7,7 +7,7 @@ Phosphor Icons generated from [React Native Vector Image](https://github.com/obl
 ## Installation
 
 ```sh
-yarn add  @baronha/react-native-phosphor-icon
+yarn add  @baronha/react-native-phosphor-icon && yarn add react-native-vector-image
 ```
 
 ## Usage
