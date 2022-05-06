@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { ViewProps } from 'react-native';
-import { IconName, IconVariant } from './value';
+import { IconName as Name, IconVariant } from './value';
 
-export const IconName;
+export const IconName: React.ValidationMap<Name>;
 export interface IconProps extends ViewProps {
   name: IconName;
   size?: number;
